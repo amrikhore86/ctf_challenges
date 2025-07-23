@@ -11,7 +11,7 @@ int main() {
             return 1;
         }
         if (pin == 3769) {
-            char flag[] = "Q1N7UGluX0F1dGhlbnRpY2F0ZWR9";
+            char flag[] = "aHdqe1BJTl9BdXRoZW50aWNhdGVkX044OTMySH0=";
             printf("Flag: %s\n", flag);
             return 0;
         } else {

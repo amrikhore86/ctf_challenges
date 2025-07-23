@@ -1,0 +1,5 @@
+Brewed with Bugs 2
+Category : Web
+
+Rumor says there’s a hidden menu the developers didn’t want anyone to see. It’s buried somewhere deep in the site’s structure. With the right directory brute force, you might just find a secret blend that leads to the second flag.
+https://vuln-coffee-shop.onrender.com/
