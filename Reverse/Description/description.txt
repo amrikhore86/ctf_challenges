@@ -1,0 +1,6 @@
+Serpent’s Cipher
+Category: Reverse Engineering
+
+A rogue mathematician tried to protect a precious flag by twisting it through a series of Python-powered calculations. Addition, subtraction, maybe even some sneaky bitwise tricks—you name it. The final scrambled result now sits in a lonely .txt file, waiting for someone clever enough to untangle it.
+
+The code that caused this chaos is in your hands… but the original flag isn’t. Can you reverse the logic and bring the hidden flag back to life?

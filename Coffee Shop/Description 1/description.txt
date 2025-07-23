@@ -1,0 +1,7 @@
+Brewed with Bugs 1
+Category: Web Exploitation
+
+The login page looks simple—almost too simple. No signup option, no reset link… but the site seems chatty when you test usernames. Sometimes it complains differently when you get something right.
+
+Can you enumerate valid usernames, crack the password with some patience, and sip the first flag?
+A list of possible usernames and passwords are provided.

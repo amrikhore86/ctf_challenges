@@ -1,0 +1,8 @@
+Droid Whisperer
+Category: Forensics
+
+A mysterious Android device image (.ad1) has surfaced, and rumor has it that the owner’s WhatsApp chats hold the key to the flag. Can you dig through the digital debris and uncover the hidden secret?
+
+Your mission: Mount, explore, and extract the truth from WhatsApp data.
+
+Hint: You might want to download FTK Imager to explore this snapshot of mobile mayhem.

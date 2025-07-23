@@ -1,0 +1,6 @@
+The Gatekeeper.exe
+Category: Reverse Engineering
+
+An unassuming .exe guards the flag behind a secret PIN. Enter the wrong code, and it stays silent. Enter the right one, and the flag is yours. Somewhere within its logic, the correct key is hidden, waiting for someone bold enough to uncover it.
+
+Can you reverse the program’s defenses and find the one PIN that unlocks the secret?

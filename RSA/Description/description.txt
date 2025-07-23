@@ -1,0 +1,8 @@
+Fractured Kingdom
+Category: Cryptography
+
+The royal court trusted their “unbreakable” RSA encryption to safeguard a message that could topple an empire. But arrogance breeds mistakes. The modulus N you’ve intercepted looks formidable… yet whispers say its two prime pillars aren’t as far apart as they should be.
+
+The ciphertext lies before you, daring you to break centuries of trust in a single stroke. Can you find the hidden cracks in the crown’s defenses and reveal the secret they tried to bury?
+
+Hint: https://www.youtube.com/watch?v=-ShwJqAalOk
