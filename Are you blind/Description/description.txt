@@ -1,0 +1,5 @@
+Are you blind?
+
+Category: Forensics
+
+You can read the flag only if you are blind
