@@ -1,0 +1,6 @@
+Zip Brute
+Category: Misc / Forensics
+
+You’ve stumbled upon an old zip file there’s a problem. The creator… forgot the password. Somewhere in the depths of time, the key was lost, leaving only this locked file behind.
+
+The contents are said to hold something valuable, but without the right combination, it’s just a digital vault mocking you. Can you figure out how to unlock its secrets and reveal what’s inside?
